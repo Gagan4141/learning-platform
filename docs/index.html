@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>N5 FastTrack | JLPT N5 Live Demo</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+      }
+      body {
+        margin: 0;
+        font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+        background: #0b1020;
+        color: #e6ecff;
+      }
+      .wrap {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+      .hero {
+        background: linear-gradient(135deg, #131b35, #273b7a);
+        border: 1px solid #3a4d8f;
+        border-radius: 16px;
+        padding: 28px;
+      }
+      h1 { margin: 0 0 8px; }
+      p { line-height: 1.55; }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 12px;
+        margin-top: 16px;
+      }
+      .card {
+        border: 1px solid #30406f;
+        background: #121a30;
+        border-radius: 12px;
+        padding: 14px;
+      }
+      button {
+        border: 0;
+        border-radius: 999px;
+        padding: 10px 16px;
+        cursor: pointer;
+        background: #4a7bff;
+        color: white;
+        font-weight: 600;
+      }
+      .mini {
+        margin-top: 18px;
+        border: 1px solid #30406f;
+        border-radius: 12px;
+        background: #121a30;
+        padding: 16px;
+      }
+      input {
+        width: 100%;
+        max-width: 320px;
+        margin: 8px 0;
+        border-radius: 8px;
+        border: 1px solid #3d548f;
+        padding: 10px;
+        font-size: 1rem;
+      }
+      .muted { color: #b6c6f3; }
+      a { color: #8fb0ff; }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <section class="hero">
+        <h1>N5 FastTrack Japanese Learning Platform</h1>
+        <p>
+          Live GitHub Pages demo for the JLPT N5 platform. Includes curriculum design for speaking, listening,
+          writing, reading, kana/kanji, active recall, SRS, interleaving, mistake review, and analytics.
+        </p>
+        <div class="grid">
+          <div class="card">Hiragana + Katakana roadmap</div>
+          <div class="card">N5 Kanji + Vocabulary drills</div>
+          <div class="card">Grammar + Reading passages</div>
+          <div class="card">Listening games + Speaking feedback flow</div>
+        </div>
+      </section>
+
+      <section class="mini">
+        <h2>Mini kana check (demo widget)</h2>
+        <p class="muted">Type hiragana for: <strong id="prompt">watashi</strong></p>
+        <input id="answer" placeholder="e.g. わたし" aria-label="Kana answer" />
+        <div>
+          <button id="check">Check answer</button>
+        </div>
+        <p id="result" class="muted"></p>
+      </section>
+
+      <section class="mini">
+        <h2>Run the full app locally/server deployment</h2>
+        <p class="muted">
+          GitHub Pages is static-only. The complete platform (auth, Prisma DB, API routes, progress tracking)
+          runs in a Node environment.
+        </p>
+        <p>
+          Full source: <a href="https://github.com/Gagan4141/learning-platform">Gagan4141/learning-platform</a>
+        </p>
+      </section>
+    </main>
+
+    <script>
+      const items = [
+        { prompt: "watashi", answer: "わたし" },
+        { prompt: "gakusei", answer: "がくせい" },
+        { prompt: "nihon", answer: "にほん" },
+        { prompt: "sensei", answer: "せんせい" }
+      ];
+      let idx = 0;
+      const promptEl = document.getElementById("prompt");
+      const answerEl = document.getElementById("answer");
+      const resultEl = document.getElementById("result");
+      const checkEl = document.getElementById("check");
+
+      function render() {
+        promptEl.textContent = items[idx].prompt;
+        answerEl.value = "";
+        resultEl.textContent = "";
+      }
+
+      checkEl.addEventListener("click", () => {
+        const expected = items[idx].answer;
+        const got = answerEl.value.trim();
+        if (got === expected) {
+          resultEl.textContent = "✅ Correct! Great active recall.";
+          idx = (idx + 1) % items.length;
+          setTimeout(render, 500);
+        } else {
+          resultEl.textContent = `❌ Try again. Expected: ${expected}`;
+        }
+      });
+
+      render();
+    </script>
+  </body>
+</html>
