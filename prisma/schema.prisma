@@ -1,0 +1,112 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                String            @id @default(cuid())
+  email             String            @unique
+  passwordHash      String
+  name              String?
+  createdAt         DateTime          @default(now())
+  updatedAt         DateTime          @updatedAt
+  onboarding        OnboardingProfile?
+  skillProgress     SkillProgress[]
+  speakingAttempts  SpeakingAttempt[]
+  reviewCards       ReviewCard[]
+  listeningScores   ListeningScore[]
+  mistakeNotes      MistakeNote[]
+  sessions          Session[]
+}
+
+model Session {
+  id        String   @id @default(cuid())
+  token     String   @unique
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+}
+
+model OnboardingProfile {
+  id             String   @id @default(cuid())
+  userId         String   @unique
+  level          String
+  dailyMinutes   Int
+  goal           String
+  studyPlan      String
+  streak         Int      @default(0)
+  xp             Int      @default(0)
+  badges         String
+  weakSkills     String
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model SkillProgress {
+  id            String   @id @default(cuid())
+  userId        String
+  skill         String
+  accuracy      Float    @default(0)
+  timeSpentMin  Int      @default(0)
+  mastered      Int      @default(0)
+  weakTopics    String
+  updatedAt     DateTime @updatedAt
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, skill])
+}
+
+model ReviewCard {
+  id             String   @id @default(cuid())
+  userId         String
+  itemType       String
+  prompt         String
+  answer         String
+  easeFactor     Float    @default(2.5)
+  intervalDays   Int      @default(0)
+  repetitions    Int      @default(0)
+  dueAt          DateTime @default(now())
+  lastScore      Int      @default(0)
+  sourceLessonId String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model SpeakingAttempt {
+  id             String   @id @default(cuid())
+  userId         String
+  expected       String
+  transcript     String
+  qualityScore   Int
+  feedback       String
+  pacingWpm      Int
+  createdAt      DateTime @default(now())
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model ListeningScore {
+  id          String   @id @default(cuid())
+  userId      String
+  gameType    String
+  score       Int
+  accuracy    Float
+  createdAt   DateTime @default(now())
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model MistakeNote {
+  id            String   @id @default(cuid())
+  userId        String
+  skill         String
+  prompt        String
+  expected      String
+  actual        String
+  createdAt     DateTime @default(now())
+  resolved      Boolean  @default(false)
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}

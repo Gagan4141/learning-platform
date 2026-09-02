@@ -1,0 +1,1780 @@
+{
+  "lessons": [
+    {
+      "id": "hiragana-1",
+      "skill": "hiragana",
+      "unit": 1,
+      "title": "Hiragana Fundamentals Unit 1",
+      "objective": "Master hiragana patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for hiragana",
+        "Example 1B for hiragana"
+      ],
+      "quiz": [
+        {
+          "question": "hiragana check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "hiragana check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "hiragana-2",
+      "skill": "hiragana",
+      "unit": 2,
+      "title": "Hiragana Fundamentals Unit 2",
+      "objective": "Master hiragana patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for hiragana",
+        "Example 2B for hiragana"
+      ],
+      "quiz": [
+        {
+          "question": "hiragana check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "hiragana check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "hiragana-3",
+      "skill": "hiragana",
+      "unit": 3,
+      "title": "Hiragana Fundamentals Unit 3",
+      "objective": "Master hiragana patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for hiragana",
+        "Example 3B for hiragana"
+      ],
+      "quiz": [
+        {
+          "question": "hiragana check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "hiragana check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "hiragana-4",
+      "skill": "hiragana",
+      "unit": 4,
+      "title": "Hiragana Fundamentals Unit 4",
+      "objective": "Master hiragana patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for hiragana",
+        "Example 4B for hiragana"
+      ],
+      "quiz": [
+        {
+          "question": "hiragana check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "hiragana check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "katakana-1",
+      "skill": "katakana",
+      "unit": 1,
+      "title": "Katakana Fast Track Unit 1",
+      "objective": "Master katakana patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for katakana",
+        "Example 1B for katakana"
+      ],
+      "quiz": [
+        {
+          "question": "katakana check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "katakana check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "katakana-2",
+      "skill": "katakana",
+      "unit": 2,
+      "title": "Katakana Fast Track Unit 2",
+      "objective": "Master katakana patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for katakana",
+        "Example 2B for katakana"
+      ],
+      "quiz": [
+        {
+          "question": "katakana check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "katakana check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "katakana-3",
+      "skill": "katakana",
+      "unit": 3,
+      "title": "Katakana Fast Track Unit 3",
+      "objective": "Master katakana patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for katakana",
+        "Example 3B for katakana"
+      ],
+      "quiz": [
+        {
+          "question": "katakana check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "katakana check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "katakana-4",
+      "skill": "katakana",
+      "unit": 4,
+      "title": "Katakana Fast Track Unit 4",
+      "objective": "Master katakana patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for katakana",
+        "Example 4B for katakana"
+      ],
+      "quiz": [
+        {
+          "question": "katakana check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "katakana check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "kanji-1",
+      "skill": "kanji",
+      "unit": 1,
+      "title": "N5 Kanji Basics Unit 1",
+      "objective": "Master kanji patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for kanji",
+        "Example 1B for kanji"
+      ],
+      "quiz": [
+        {
+          "question": "kanji check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "kanji check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "kanji-2",
+      "skill": "kanji",
+      "unit": 2,
+      "title": "N5 Kanji Basics Unit 2",
+      "objective": "Master kanji patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for kanji",
+        "Example 2B for kanji"
+      ],
+      "quiz": [
+        {
+          "question": "kanji check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "kanji check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "kanji-3",
+      "skill": "kanji",
+      "unit": 3,
+      "title": "N5 Kanji Basics Unit 3",
+      "objective": "Master kanji patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for kanji",
+        "Example 3B for kanji"
+      ],
+      "quiz": [
+        {
+          "question": "kanji check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "kanji check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "kanji-4",
+      "skill": "kanji",
+      "unit": 4,
+      "title": "N5 Kanji Basics Unit 4",
+      "objective": "Master kanji patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for kanji",
+        "Example 4B for kanji"
+      ],
+      "quiz": [
+        {
+          "question": "kanji check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "kanji check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "vocabulary-1",
+      "skill": "vocabulary",
+      "unit": 1,
+      "title": "Core N5 Vocabulary Unit 1",
+      "objective": "Master vocabulary patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for vocabulary",
+        "Example 1B for vocabulary"
+      ],
+      "quiz": [
+        {
+          "question": "vocabulary check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "vocabulary check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "vocabulary-2",
+      "skill": "vocabulary",
+      "unit": 2,
+      "title": "Core N5 Vocabulary Unit 2",
+      "objective": "Master vocabulary patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for vocabulary",
+        "Example 2B for vocabulary"
+      ],
+      "quiz": [
+        {
+          "question": "vocabulary check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "vocabulary check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "vocabulary-3",
+      "skill": "vocabulary",
+      "unit": 3,
+      "title": "Core N5 Vocabulary Unit 3",
+      "objective": "Master vocabulary patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for vocabulary",
+        "Example 3B for vocabulary"
+      ],
+      "quiz": [
+        {
+          "question": "vocabulary check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "vocabulary check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "vocabulary-4",
+      "skill": "vocabulary",
+      "unit": 4,
+      "title": "Core N5 Vocabulary Unit 4",
+      "objective": "Master vocabulary patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for vocabulary",
+        "Example 4B for vocabulary"
+      ],
+      "quiz": [
+        {
+          "question": "vocabulary check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "vocabulary check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "grammar-1",
+      "skill": "grammar",
+      "unit": 1,
+      "title": "N5 Grammar Essentials Unit 1",
+      "objective": "Master grammar patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for grammar",
+        "Example 1B for grammar"
+      ],
+      "quiz": [
+        {
+          "question": "grammar check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "grammar check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "grammar-2",
+      "skill": "grammar",
+      "unit": 2,
+      "title": "N5 Grammar Essentials Unit 2",
+      "objective": "Master grammar patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for grammar",
+        "Example 2B for grammar"
+      ],
+      "quiz": [
+        {
+          "question": "grammar check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "grammar check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "grammar-3",
+      "skill": "grammar",
+      "unit": 3,
+      "title": "N5 Grammar Essentials Unit 3",
+      "objective": "Master grammar patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for grammar",
+        "Example 3B for grammar"
+      ],
+      "quiz": [
+        {
+          "question": "grammar check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "grammar check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "grammar-4",
+      "skill": "grammar",
+      "unit": 4,
+      "title": "N5 Grammar Essentials Unit 4",
+      "objective": "Master grammar patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for grammar",
+        "Example 4B for grammar"
+      ],
+      "quiz": [
+        {
+          "question": "grammar check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "grammar check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "reading-1",
+      "skill": "reading",
+      "unit": 1,
+      "title": "Reading Comprehension Unit 1",
+      "objective": "Master reading patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for reading",
+        "Example 1B for reading"
+      ],
+      "quiz": [
+        {
+          "question": "reading check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "reading check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "reading-2",
+      "skill": "reading",
+      "unit": 2,
+      "title": "Reading Comprehension Unit 2",
+      "objective": "Master reading patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for reading",
+        "Example 2B for reading"
+      ],
+      "quiz": [
+        {
+          "question": "reading check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "reading check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "reading-3",
+      "skill": "reading",
+      "unit": 3,
+      "title": "Reading Comprehension Unit 3",
+      "objective": "Master reading patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for reading",
+        "Example 3B for reading"
+      ],
+      "quiz": [
+        {
+          "question": "reading check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "reading check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "reading-4",
+      "skill": "reading",
+      "unit": 4,
+      "title": "Reading Comprehension Unit 4",
+      "objective": "Master reading patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for reading",
+        "Example 4B for reading"
+      ],
+      "quiz": [
+        {
+          "question": "reading check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "reading check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "listening-1",
+      "skill": "listening",
+      "unit": 1,
+      "title": "Listening Comprehension Unit 1",
+      "objective": "Master listening patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for listening",
+        "Example 1B for listening"
+      ],
+      "quiz": [
+        {
+          "question": "listening check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "listening check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "listening-2",
+      "skill": "listening",
+      "unit": 2,
+      "title": "Listening Comprehension Unit 2",
+      "objective": "Master listening patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for listening",
+        "Example 2B for listening"
+      ],
+      "quiz": [
+        {
+          "question": "listening check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "listening check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "listening-3",
+      "skill": "listening",
+      "unit": 3,
+      "title": "Listening Comprehension Unit 3",
+      "objective": "Master listening patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for listening",
+        "Example 3B for listening"
+      ],
+      "quiz": [
+        {
+          "question": "listening check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "listening check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "listening-4",
+      "skill": "listening",
+      "unit": 4,
+      "title": "Listening Comprehension Unit 4",
+      "objective": "Master listening patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for listening",
+        "Example 4B for listening"
+      ],
+      "quiz": [
+        {
+          "question": "listening check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "listening check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "speaking-1",
+      "skill": "speaking",
+      "unit": 1,
+      "title": "Speaking Drills Unit 1",
+      "objective": "Master speaking patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for speaking",
+        "Example 1B for speaking"
+      ],
+      "quiz": [
+        {
+          "question": "speaking check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "speaking check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "speaking-2",
+      "skill": "speaking",
+      "unit": 2,
+      "title": "Speaking Drills Unit 2",
+      "objective": "Master speaking patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for speaking",
+        "Example 2B for speaking"
+      ],
+      "quiz": [
+        {
+          "question": "speaking check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "speaking check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "speaking-3",
+      "skill": "speaking",
+      "unit": 3,
+      "title": "Speaking Drills Unit 3",
+      "objective": "Master speaking patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for speaking",
+        "Example 3B for speaking"
+      ],
+      "quiz": [
+        {
+          "question": "speaking check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "speaking check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "speaking-4",
+      "skill": "speaking",
+      "unit": 4,
+      "title": "Speaking Drills Unit 4",
+      "objective": "Master speaking patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for speaking",
+        "Example 4B for speaking"
+      ],
+      "quiz": [
+        {
+          "question": "speaking check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "speaking check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "writing-1",
+      "skill": "writing",
+      "unit": 1,
+      "title": "Writing Practice Unit 1",
+      "objective": "Master writing patterns for everyday JLPT N5 situations in unit 1.",
+      "examples": [
+        "Example 1A for writing",
+        "Example 1B for writing"
+      ],
+      "quiz": [
+        {
+          "question": "writing check 1.1",
+          "answer": "A"
+        },
+        {
+          "question": "writing check 1.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "writing-2",
+      "skill": "writing",
+      "unit": 2,
+      "title": "Writing Practice Unit 2",
+      "objective": "Master writing patterns for everyday JLPT N5 situations in unit 2.",
+      "examples": [
+        "Example 2A for writing",
+        "Example 2B for writing"
+      ],
+      "quiz": [
+        {
+          "question": "writing check 2.1",
+          "answer": "A"
+        },
+        {
+          "question": "writing check 2.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "writing-3",
+      "skill": "writing",
+      "unit": 3,
+      "title": "Writing Practice Unit 3",
+      "objective": "Master writing patterns for everyday JLPT N5 situations in unit 3.",
+      "examples": [
+        "Example 3A for writing",
+        "Example 3B for writing"
+      ],
+      "quiz": [
+        {
+          "question": "writing check 3.1",
+          "answer": "A"
+        },
+        {
+          "question": "writing check 3.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    },
+    {
+      "id": "writing-4",
+      "skill": "writing",
+      "unit": 4,
+      "title": "Writing Practice Unit 4",
+      "objective": "Master writing patterns for everyday JLPT N5 situations in unit 4.",
+      "examples": [
+        "Example 4A for writing",
+        "Example 4B for writing"
+      ],
+      "quiz": [
+        {
+          "question": "writing check 4.1",
+          "answer": "A"
+        },
+        {
+          "question": "writing check 4.2",
+          "answer": "B"
+        }
+      ],
+      "masteryCriteria": {
+        "minScore": 75,
+        "minAttempts": 2
+      }
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "わたし",
+      "meaning": "I",
+      "example": "わたし を べんきょうします。"
+    },
+    {
+      "id": "v2",
+      "term": "あなた",
+      "meaning": "you",
+      "example": "あなた を べんきょうします。"
+    },
+    {
+      "id": "v3",
+      "term": "せんせい",
+      "meaning": "teacher",
+      "example": "せんせい を べんきょうします。"
+    },
+    {
+      "id": "v4",
+      "term": "がくせい",
+      "meaning": "student",
+      "example": "がくせい を べんきょうします。"
+    },
+    {
+      "id": "v5",
+      "term": "ともだち",
+      "meaning": "friend",
+      "example": "ともだち を べんきょうします。"
+    },
+    {
+      "id": "v6",
+      "term": "ほん",
+      "meaning": "book",
+      "example": "ほん を べんきょうします。"
+    },
+    {
+      "id": "v7",
+      "term": "みず",
+      "meaning": "water",
+      "example": "みず を べんきょうします。"
+    },
+    {
+      "id": "v8",
+      "term": "ごはん",
+      "meaning": "meal",
+      "example": "ごはん を べんきょうします。"
+    },
+    {
+      "id": "v9",
+      "term": "いぬ",
+      "meaning": "dog",
+      "example": "いぬ を べんきょうします。"
+    },
+    {
+      "id": "v10",
+      "term": "ねこ",
+      "meaning": "cat",
+      "example": "ねこ を べんきょうします。"
+    },
+    {
+      "id": "v11",
+      "term": "いく",
+      "meaning": "go",
+      "example": "いく を べんきょうします。"
+    },
+    {
+      "id": "v12",
+      "term": "くる",
+      "meaning": "come",
+      "example": "くる を べんきょうします。"
+    },
+    {
+      "id": "v13",
+      "term": "みる",
+      "meaning": "see",
+      "example": "みる を べんきょうします。"
+    },
+    {
+      "id": "v14",
+      "term": "きく",
+      "meaning": "listen",
+      "example": "きく を べんきょうします。"
+    },
+    {
+      "id": "v15",
+      "term": "はなす",
+      "meaning": "speak",
+      "example": "はなす を べんきょうします。"
+    },
+    {
+      "id": "v16",
+      "term": "たべる",
+      "meaning": "eat",
+      "example": "たべる を べんきょうします。"
+    },
+    {
+      "id": "v17",
+      "term": "のむ",
+      "meaning": "drink",
+      "example": "のむ を べんきょうします。"
+    },
+    {
+      "id": "v18",
+      "term": "かく",
+      "meaning": "write",
+      "example": "かく を べんきょうします。"
+    },
+    {
+      "id": "v19",
+      "term": "よむ",
+      "meaning": "read",
+      "example": "よむ を べんきょうします。"
+    },
+    {
+      "id": "v20",
+      "term": "かう",
+      "meaning": "buy",
+      "example": "かう を べんきょうします。"
+    },
+    {
+      "id": "v21",
+      "term": "あさ",
+      "meaning": "morning",
+      "example": "あさ を べんきょうします。"
+    },
+    {
+      "id": "v22",
+      "term": "ひる",
+      "meaning": "noon",
+      "example": "ひる を べんきょうします。"
+    },
+    {
+      "id": "v23",
+      "term": "よる",
+      "meaning": "night",
+      "example": "よる を べんきょうします。"
+    },
+    {
+      "id": "v24",
+      "term": "きょう",
+      "meaning": "today",
+      "example": "きょう を べんきょうします。"
+    },
+    {
+      "id": "v25",
+      "term": "あした",
+      "meaning": "tomorrow",
+      "example": "あした を べんきょうします。"
+    },
+    {
+      "id": "v26",
+      "term": "きのう",
+      "meaning": "yesterday",
+      "example": "きのう を べんきょうします。"
+    },
+    {
+      "id": "v27",
+      "term": "げつようび",
+      "meaning": "Monday",
+      "example": "げつようび を べんきょうします。"
+    },
+    {
+      "id": "v28",
+      "term": "にほん",
+      "meaning": "Japan",
+      "example": "にほん を べんきょうします。"
+    },
+    {
+      "id": "v29",
+      "term": "えき",
+      "meaning": "station",
+      "example": "えき を べんきょうします。"
+    },
+    {
+      "id": "v30",
+      "term": "がっこう",
+      "meaning": "school",
+      "example": "がっこう を べんきょうします。"
+    },
+    {
+      "id": "v31",
+      "term": "いま",
+      "meaning": "now",
+      "example": "いま を べんきょうします。"
+    },
+    {
+      "id": "v32",
+      "term": "あとで",
+      "meaning": "later",
+      "example": "あとで を べんきょうします。"
+    },
+    {
+      "id": "v33",
+      "term": "すぐ",
+      "meaning": "right away",
+      "example": "すぐ を べんきょうします。"
+    },
+    {
+      "id": "v34",
+      "term": "とても",
+      "meaning": "very",
+      "example": "とても を べんきょうします。"
+    },
+    {
+      "id": "v35",
+      "term": "すこし",
+      "meaning": "a little",
+      "example": "すこし を べんきょうします。"
+    },
+    {
+      "id": "v36",
+      "term": "いつも",
+      "meaning": "always",
+      "example": "いつも を べんきょうします。"
+    },
+    {
+      "id": "v37",
+      "term": "たまに",
+      "meaning": "sometimes",
+      "example": "たまに を べんきょうします。"
+    },
+    {
+      "id": "v38",
+      "term": "なに",
+      "meaning": "what",
+      "example": "なに を べんきょうします。"
+    },
+    {
+      "id": "v39",
+      "term": "どこ",
+      "meaning": "where",
+      "example": "どこ を べんきょうします。"
+    },
+    {
+      "id": "v40",
+      "term": "なぜ",
+      "meaning": "why",
+      "example": "なぜ を べんきょうします。"
+    },
+    {
+      "id": "v41",
+      "term": "いくら",
+      "meaning": "how much",
+      "example": "いくら を べんきょうします。"
+    },
+    {
+      "id": "v42",
+      "term": "だれ",
+      "meaning": "who",
+      "example": "だれ を べんきょうします。"
+    },
+    {
+      "id": "v43",
+      "term": "どちら",
+      "meaning": "which",
+      "example": "どちら を べんきょうします。"
+    },
+    {
+      "id": "v44",
+      "term": "おおきい",
+      "meaning": "big",
+      "example": "おおきい を べんきょうします。"
+    },
+    {
+      "id": "v45",
+      "term": "ちいさい",
+      "meaning": "small",
+      "example": "ちいさい を べんきょうします。"
+    },
+    {
+      "id": "v46",
+      "term": "あたらしい",
+      "meaning": "new",
+      "example": "あたらしい を べんきょうします。"
+    },
+    {
+      "id": "v47",
+      "term": "ふるい",
+      "meaning": "old",
+      "example": "ふるい を べんきょうします。"
+    },
+    {
+      "id": "v48",
+      "term": "やすい",
+      "meaning": "cheap",
+      "example": "やすい を べんきょうします。"
+    },
+    {
+      "id": "v49",
+      "term": "たかい",
+      "meaning": "expensive",
+      "example": "たかい を べんきょうします。"
+    },
+    {
+      "id": "v50",
+      "term": "おもしろい",
+      "meaning": "interesting",
+      "example": "おもしろい を べんきょうします。"
+    },
+    {
+      "id": "v51",
+      "term": "むずかしい",
+      "meaning": "difficult",
+      "example": "むずかしい を べんきょうします。"
+    },
+    {
+      "id": "v52",
+      "term": "やさしい",
+      "meaning": "easy",
+      "example": "やさしい を べんきょうします。"
+    },
+    {
+      "id": "v53",
+      "term": "あつい",
+      "meaning": "hot",
+      "example": "あつい を べんきょうします。"
+    },
+    {
+      "id": "v54",
+      "term": "さむい",
+      "meaning": "cold",
+      "example": "さむい を べんきょうします。"
+    },
+    {
+      "id": "v55",
+      "term": "いそがしい",
+      "meaning": "busy",
+      "example": "いそがしい を べんきょうします。"
+    },
+    {
+      "id": "v56",
+      "term": "げんき",
+      "meaning": "well",
+      "example": "げんき を べんきょうします。"
+    },
+    {
+      "id": "v57",
+      "term": "すき",
+      "meaning": "like",
+      "example": "すき を べんきょうします。"
+    },
+    {
+      "id": "v58",
+      "term": "きらい",
+      "meaning": "dislike",
+      "example": "きらい を べんきょうします。"
+    },
+    {
+      "id": "v59",
+      "term": "じょうず",
+      "meaning": "skilled",
+      "example": "じょうず を べんきょうします。"
+    },
+    {
+      "id": "v60",
+      "term": "へた",
+      "meaning": "unskilled",
+      "example": "へた を べんきょうします。"
+    }
+  ],
+  "listening": [
+    {
+      "id": "l1",
+      "type": "dialogue",
+      "title": "N5 Listening Clip 1",
+      "transcript": "これは N5 リスニング 1 のサンプルです。",
+      "prompt": "What is the key information in clip 1?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Time"
+    },
+    {
+      "id": "l2",
+      "type": "announcement",
+      "title": "N5 Listening Clip 2",
+      "transcript": "これは N5 リスニング 2 のサンプルです。",
+      "prompt": "What is the key information in clip 2?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Place"
+    },
+    {
+      "id": "l3",
+      "type": "story",
+      "title": "N5 Listening Clip 3",
+      "transcript": "これは N5 リスニング 3 のサンプルです。",
+      "prompt": "What is the key information in clip 3?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Person"
+    },
+    {
+      "id": "l4",
+      "type": "qa",
+      "title": "N5 Listening Clip 4",
+      "transcript": "これは N5 リスニング 4 のサンプルです。",
+      "prompt": "What is the key information in clip 4?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Action"
+    },
+    {
+      "id": "l5",
+      "type": "dialogue",
+      "title": "N5 Listening Clip 5",
+      "transcript": "これは N5 リスニング 5 のサンプルです。",
+      "prompt": "What is the key information in clip 5?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Time"
+    },
+    {
+      "id": "l6",
+      "type": "announcement",
+      "title": "N5 Listening Clip 6",
+      "transcript": "これは N5 リスニング 6 のサンプルです。",
+      "prompt": "What is the key information in clip 6?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Place"
+    },
+    {
+      "id": "l7",
+      "type": "story",
+      "title": "N5 Listening Clip 7",
+      "transcript": "これは N5 リスニング 7 のサンプルです。",
+      "prompt": "What is the key information in clip 7?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Person"
+    },
+    {
+      "id": "l8",
+      "type": "qa",
+      "title": "N5 Listening Clip 8",
+      "transcript": "これは N5 リスニング 8 のサンプルです。",
+      "prompt": "What is the key information in clip 8?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Action"
+    },
+    {
+      "id": "l9",
+      "type": "dialogue",
+      "title": "N5 Listening Clip 9",
+      "transcript": "これは N5 リスニング 9 のサンプルです。",
+      "prompt": "What is the key information in clip 9?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Time"
+    },
+    {
+      "id": "l10",
+      "type": "announcement",
+      "title": "N5 Listening Clip 10",
+      "transcript": "これは N5 リスニング 10 のサンプルです。",
+      "prompt": "What is the key information in clip 10?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Place"
+    },
+    {
+      "id": "l11",
+      "type": "story",
+      "title": "N5 Listening Clip 11",
+      "transcript": "これは N5 リスニング 11 のサンプルです。",
+      "prompt": "What is the key information in clip 11?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Person"
+    },
+    {
+      "id": "l12",
+      "type": "qa",
+      "title": "N5 Listening Clip 12",
+      "transcript": "これは N5 リスニング 12 のサンプルです。",
+      "prompt": "What is the key information in clip 12?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Action"
+    },
+    {
+      "id": "l13",
+      "type": "dialogue",
+      "title": "N5 Listening Clip 13",
+      "transcript": "これは N5 リスニング 13 のサンプルです。",
+      "prompt": "What is the key information in clip 13?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Time"
+    },
+    {
+      "id": "l14",
+      "type": "announcement",
+      "title": "N5 Listening Clip 14",
+      "transcript": "これは N5 リスニング 14 のサンプルです。",
+      "prompt": "What is the key information in clip 14?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Place"
+    },
+    {
+      "id": "l15",
+      "type": "story",
+      "title": "N5 Listening Clip 15",
+      "transcript": "これは N5 リスニング 15 のサンプルです。",
+      "prompt": "What is the key information in clip 15?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Person"
+    },
+    {
+      "id": "l16",
+      "type": "qa",
+      "title": "N5 Listening Clip 16",
+      "transcript": "これは N5 リスニング 16 のサンプルです。",
+      "prompt": "What is the key information in clip 16?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Action"
+    },
+    {
+      "id": "l17",
+      "type": "dialogue",
+      "title": "N5 Listening Clip 17",
+      "transcript": "これは N5 リスニング 17 のサンプルです。",
+      "prompt": "What is the key information in clip 17?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Time"
+    },
+    {
+      "id": "l18",
+      "type": "announcement",
+      "title": "N5 Listening Clip 18",
+      "transcript": "これは N5 リスニング 18 のサンプルです。",
+      "prompt": "What is the key information in clip 18?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Place"
+    },
+    {
+      "id": "l19",
+      "type": "story",
+      "title": "N5 Listening Clip 19",
+      "transcript": "これは N5 リスニング 19 のサンプルです。",
+      "prompt": "What is the key information in clip 19?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Person"
+    },
+    {
+      "id": "l20",
+      "type": "qa",
+      "title": "N5 Listening Clip 20",
+      "transcript": "これは N5 リスニング 20 のサンプルです。",
+      "prompt": "What is the key information in clip 20?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Action"
+    },
+    {
+      "id": "l21",
+      "type": "dialogue",
+      "title": "N5 Listening Clip 21",
+      "transcript": "これは N5 リスニング 21 のサンプルです。",
+      "prompt": "What is the key information in clip 21?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Time"
+    },
+    {
+      "id": "l22",
+      "type": "announcement",
+      "title": "N5 Listening Clip 22",
+      "transcript": "これは N5 リスニング 22 のサンプルです。",
+      "prompt": "What is the key information in clip 22?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Place"
+    },
+    {
+      "id": "l23",
+      "type": "story",
+      "title": "N5 Listening Clip 23",
+      "transcript": "これは N5 リスニング 23 のサンプルです。",
+      "prompt": "What is the key information in clip 23?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Person"
+    },
+    {
+      "id": "l24",
+      "type": "qa",
+      "title": "N5 Listening Clip 24",
+      "transcript": "これは N5 リスニング 24 のサンプルです。",
+      "prompt": "What is the key information in clip 24?",
+      "options": [
+        "Time",
+        "Place",
+        "Person",
+        "Action"
+      ],
+      "answer": "Action"
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "N5 Passage 1",
+      "text": "わたしは まいにち 1じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 1時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 1 o'clock"
+    },
+    {
+      "id": "r2",
+      "title": "N5 Passage 2",
+      "text": "わたしは まいにち 2じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 2時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 2 o'clock"
+    },
+    {
+      "id": "r3",
+      "title": "N5 Passage 3",
+      "text": "わたしは まいにち 3じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 3時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 3 o'clock"
+    },
+    {
+      "id": "r4",
+      "title": "N5 Passage 4",
+      "text": "わたしは まいにち 4じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 4時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 4 o'clock"
+    },
+    {
+      "id": "r5",
+      "title": "N5 Passage 5",
+      "text": "わたしは まいにち 5じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 5時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 5 o'clock"
+    },
+    {
+      "id": "r6",
+      "title": "N5 Passage 6",
+      "text": "わたしは まいにち 6じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 6時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 6 o'clock"
+    },
+    {
+      "id": "r7",
+      "title": "N5 Passage 7",
+      "text": "わたしは まいにち 7じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 7時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 7 o'clock"
+    },
+    {
+      "id": "r8",
+      "title": "N5 Passage 8",
+      "text": "わたしは まいにち 8じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 8時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 8 o'clock"
+    },
+    {
+      "id": "r9",
+      "title": "N5 Passage 9",
+      "text": "わたしは まいにち 9じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 9時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 9 o'clock"
+    },
+    {
+      "id": "r10",
+      "title": "N5 Passage 10",
+      "text": "わたしは まいにち 10じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 10時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 10 o'clock"
+    },
+    {
+      "id": "r11",
+      "title": "N5 Passage 11",
+      "text": "わたしは まいにち 11じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 11時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 11 o'clock"
+    },
+    {
+      "id": "r12",
+      "title": "N5 Passage 12",
+      "text": "わたしは まいにち 12じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 12時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 12 o'clock"
+    },
+    {
+      "id": "r13",
+      "title": "N5 Passage 13",
+      "text": "わたしは まいにち 13じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 13時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 13 o'clock"
+    },
+    {
+      "id": "r14",
+      "title": "N5 Passage 14",
+      "text": "わたしは まいにち 14じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 14時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 14 o'clock"
+    },
+    {
+      "id": "r15",
+      "title": "N5 Passage 15",
+      "text": "わたしは まいにち 15じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 15時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 15 o'clock"
+    },
+    {
+      "id": "r16",
+      "title": "N5 Passage 16",
+      "text": "わたしは まいにち 16じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 16時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 16 o'clock"
+    },
+    {
+      "id": "r17",
+      "title": "N5 Passage 17",
+      "text": "わたしは まいにち 17じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 17時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 17 o'clock"
+    },
+    {
+      "id": "r18",
+      "title": "N5 Passage 18",
+      "text": "わたしは まいにち 18じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 18時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 18 o'clock"
+    },
+    {
+      "id": "r19",
+      "title": "N5 Passage 19",
+      "text": "わたしは まいにち 19じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 19時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 19 o'clock"
+    },
+    {
+      "id": "r20",
+      "title": "N5 Passage 20",
+      "text": "わたしは まいにち 20じ に がっこうへ いきます。ともだちと にほんごを べんきょうします。",
+      "furigana": "私(わたし)は 毎日(まいにち) 20時(じ) に 学校(がっこう)へ 行(い)きます。友達(ともだち)と 日本語(にほんご)を 勉強(べんきょう)します。",
+      "question": "When does the speaker go to school?",
+      "answer": "At 20 o'clock"
+    }
+  ],
+  "speakingPrompts": [
+    "じこしょうかいをしてください。",
+    "まいにちの ルーティンを はなしてください。",
+    "みせで かいものを する かいわを してください。",
+    "いまの じかんと ひづけを いってください。",
+    "えきまでの みちを せつめいしてください。"
+  ],
+  "writingPrompts": [
+    "romaji->kana: watashi wa gakusei desu",
+    "kana->romaji: わたしはにほんごをべんきょうします",
+    "dictation: きょうはいいてんきです",
+    "write sentence with particle は",
+    "write sentence with particle を"
+  ]
+}
