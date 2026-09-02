@@ -71,6 +71,16 @@ Demo seeded user:
 
 Any Node-compatible deployment for Next.js works.
 
+### GitHub Pages (live static demo)
+
+This repo includes a Pages workflow at:
+- `/home/runner/work/learning-platform/learning-platform/.github/workflows/deploy-pages.yml`
+
+After merge to `main`, GitHub deploys `/docs` to:
+- `https://gagan4141.github.io/learning-platform/`
+
+Note: GitHub Pages is static-only, so the full app features (auth, Prisma DB, API routes, persistent progress) need a Node deployment target for full functionality.
+
 Production checklist:
 - use Postgres for production-scale data
 - configure HTTPS + secure cookie domain
